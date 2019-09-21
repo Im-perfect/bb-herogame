@@ -1,0 +1,10 @@
+main {
+  margin-bottom: 40px;
+}
+img {
+  width: 100px;
+}
+.clickable {
+  cursor: pointer;
+  margin: 20px;
+}
